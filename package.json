@@ -17,7 +17,7 @@
   },
   "devDependencies": {
     "react-scripts": "latest"
-  },
+  }, 
   "browserslist": {
     "production": [
       ">0.2%",
