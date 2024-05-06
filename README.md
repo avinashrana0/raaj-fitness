@@ -38,7 +38,7 @@ When contributing to this repository, please first discuss the change you wish t
 ## License
 
 [MIT](https://choosealicense.com/licenses/mit/)
-Visit: https://gray-tree-0bd611e00.5.azurestaticapps.net/
+Visit: https://wonderful-moss-075ffde00.5.azurestaticapps.net/
 
 [Created on StackBlitz ⚡️] with :heart:
 # raaj-fitness
