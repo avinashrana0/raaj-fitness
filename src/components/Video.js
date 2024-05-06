@@ -33,8 +33,8 @@ export default function Video({url}) {
   return (
     <>
        <div className="container">
-       <div className="player--container">
-       <div className='player-wrapper' ref={el=> {vid=el}}>
+        <div className="player--container">
+          <div className='player-wrapper' ref={el=> {vid=el}}>
         <ReactPlayer
           className='react-player'
           url={url}
@@ -42,8 +42,8 @@ export default function Video({url}) {
           height='100%'
           controls={true}
         />
-      </div>
-      </div>
+          </div>
+        </div>
       </div>
   
     </>

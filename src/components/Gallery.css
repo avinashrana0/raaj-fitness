@@ -6,12 +6,12 @@
 }
 .anim{
   transform: translateY(-50%);
-  margin-top:2.5rem;
+  margin-top:5.5rem;
   opacity: 0;
 }
 
 .gallery--header h2{
-   font-family: "oswald",sans-serif;
+  font-family: "oswald",sans-serif;
   font-size: clamp(2rem, 4vw, 5rem); 
   text-align: center;
   margin-bottom: 2rem;
