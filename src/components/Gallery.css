@@ -84,8 +84,18 @@
   .slider{
     height:60vh;
   }
-  
 }
+
+@media screen and (min-width:708px){
+  .anim{
+    margin-top:15.5rem;
+  }
+
+  .slider{
+    height:60vh;
+  }
+}
+
 @media screen and (min-width:2000px){
   .slider{
     height:45vh;

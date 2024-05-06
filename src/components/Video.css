@@ -39,11 +39,6 @@
     overflow-x: hidden;
   }
 
-  .player--container{
-    max-width:90%;
-    top: 100;
-  }
-
 }
 @media screen and (max-width:500px ){
   .player-wrapper {
