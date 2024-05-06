@@ -34,7 +34,7 @@ export  const reviews = [
     id: 2,
     img: id2,
     name: 'Avinash Rana',
-    title: 'Engineer',
+    title: 'ML Engineer',
     quote:
       'The one I go to is new. All the equipment is good, and at the time I go there is enough for everyone to use without being on top of each other.',
   },
