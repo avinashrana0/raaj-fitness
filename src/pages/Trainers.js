@@ -3,9 +3,8 @@ import {TweenMax, gsap} from "gsap";
 import { Button } from '../components/Button';
 import "./Trainers.css"
 import { ScrollTrigger } from 'gsap/ScrollTrigger';
-import Trainer from '../assets/Trainer.jpg'
+import Trainer from '../assets/gymowner.jpg'
 import Goal from '../assets/Goal.jpg'
-import Gympan from '../assets/Gympan.jpg';
 
 gsap.registerPlugin(ScrollTrigger);
 export default function Trainers() {

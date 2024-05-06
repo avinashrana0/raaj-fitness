@@ -3,6 +3,7 @@ import {gsap} from "gsap";
 import {gallery} from "../data"
 import "./Gallery.css"
 import { ScrollTrigger } from 'gsap/ScrollTrigger';
+import Trainers from '../pages/Trainers';
 gsap.registerPlugin(ScrollTrigger);
 
 
@@ -54,6 +55,7 @@ useEffect(() => {
     <p>Take a tour around our facility...</p>
     <p>By looking through our gallery, you can see what you'll find at <strong>Raaj Fitness Center</strong>. There's lots of equipment to check out and plenty of friendly faces too!</p>
     </div>
+    <Trainers/>
     <p></p>
     </div>
     <section className='slider'>
