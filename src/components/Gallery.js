@@ -52,7 +52,7 @@ useEffect(() => {
     <div className="anim" ref={el=> {text=el}}>
 
     <p>Take a tour around our facility...</p>
-    <p>By looking through our gallery, you can see what you'll find at <strong>Raaj Fitness Gym</strong>. There's lots of equipment to check out and plenty of friendly faces too!</p>
+    <p>By looking through our gallery, you can see what you'll find at <strong>Raaj Fitness Center</strong>. There's lots of equipment to check out and plenty of friendly faces too!</p>
     </div>
     <p></p>
     </div>

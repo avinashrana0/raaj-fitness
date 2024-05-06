@@ -78,7 +78,7 @@ useEffect(() => {
       <div className="faq--header"><h1>Trainers</h1></div>
         <div className="fet--contain">
           <div className='title'>
-                <h2>Why Raj Fitness Personal Training?</h2>
+                <h2>Why Raj Fitness  Center Personal Training?</h2>
                 <div className='underline'></div>
                 <div className="">
                 <p>Trainer will develop a personalized training program that fits your body, lifestyle and budget. They are certified experts in exercise physiology, anatomy, training program development, fitness assessments and applications. They excel at applying this knowledge to help you achieve your goal and go further in life.</p>
@@ -88,20 +88,20 @@ useEffect(() => {
         <div className="welcome">
           <img src={Trainer} alt="Raaj gym" ref={el=> {cor=el}}/>
           <div className="welcome--headline" ref={el=> {corri=el}}>
-          <h3>Welcome to Personal Training by Raaj Fitness</h3>
-          <p>Rajiv thakur original from
+          <h3>Welcome to Personal Training by Raaj Fitness Center</h3>
+          <p>Raaj thakur original from
             —mandi Himachal Pradesh, embarked on his journey on 13 April
             2010 when he in his
             District. initially the gym primarily focused On
             providing cardio and weight to
-            its members.However as time passed, Rajiv
+            its members.However as time passed, Raaj
             expanded his offerings to including fitness
             training and consultancy for aspiring youngsters
             and athletes.His ultimate objective was to assist
             them in building confidence , developing their
             muscles,and maintaining overall fitness and
             strength in addition to managing his gyms.</p>
-           <p>Rajiv
+           <p>Raj
               thakur has also assumed leadership role in the
               fitness industry.He currently serves as the
               President of the world fitness federation in
@@ -111,7 +111,7 @@ useEffect(() => {
               testament to his unwavering commitment and
               noteworthy contributions
             </p>
-           <p><strong><em>For best results, choose Personal Training Raaj Fitness.</em></strong></p>
+           <p><strong><em>For best results, choose Personal Training Raaj Fitness Center.</em></strong></p>
         </div>
         </div>
         <div className="why">
